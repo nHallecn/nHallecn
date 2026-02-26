@@ -1,124 +1,85 @@
-<h1 align="center">Hey 👋 I'm Halle</h1>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
-</div>
-
-<h3 align="center">Software Engineering Student | Backend & Systems Developer</h3>
+<h1 align="center">Hey there! 👋 I'm Halle</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhallecn&label=Profile%20views&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/nhallecn?label=Follow&style=social"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Databases-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/Currently%20Building-Real%20World%20Systems-0e75b6?style=flat"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineering+Student;JavaScript+Developer;Frontend+%26+Backend+Dev;Three.js+Enthusiast;WebSocket+Integrator&center=true&size=25&duration=2000&pause=1000&color=36BCF7&font=monospace" alt="Typing SVG">
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Software Engineering student focused on **system design and backend architecture**
-- 🏗 Currently building structured, database-driven applications
-- 💳 Developing fintech-oriented systems (wallets, transactions, authentication flows)
-- 🔍 Interested in how data moves securely across distributed systems
-- 📈 Continuously improving problem-solving and clean architecture skills
-
-I don’t just build interfaces — I design how systems work internally.
+I am a passionate **Software Engineering student** with a strong focus on building robust and scalable applications. My expertise spans across both **frontend and backend development**, allowing me to craft comprehensive solutions from user interface to server-side logic. I have a particular interest in **Three.js** for creating immersive 3D web experiences and **WebSocket integration** for real-time, interactive applications.
 
 ---
 
-## ⚙️ Core Stack
+## ⚙️ My Toolkit
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white"/>
-
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  
+  <!-- Backend & Real-time -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/WebSockets-1A1A1A?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
+
+---
+
+## 🚀 Notable Projects
+
+### 💳 CashAccess (Fintech Concept)
+
+A mobile-focused fintech system designed for the Cameroonian market, featuring a robust wallet system, airtime conversion, secure authentication, and transaction tracking. My focus was on backend logic, database integrity, and transaction flows.
+
+### 🏢 Training Management System (Enterprise App)
+
+An application built to manage internal and external training processes, including trainee tracking, scheduling, role-based access, and comprehensive database management. Emphasized structured database design and workflow automation.
+
+### 🎓 Academic & System Projects
+
+Developed various database systems, web applications, backend APIs, and simulation systems with an emphasis on clean code, scalability, and structured logic.
+
+---
+
+## 💡 Development Philosophy
+
+> Build systems that are structured.
+> Write code that is readable.
+> Design databases that scale.
+> Never rush architecture.
 
 ---
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=nhallecn&show_icons=true&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhallecn&theme=dark&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nhallecn&theme=dark&hide_border=true)
-
----
-
-## 🏗 Notable Projects
-
-### 💳 CashAccess (Fintech Concept)
-A mobile-focused fintech system designed for the Cameroonian market.  
-Features:
-- Wallet system  
-- Airtime conversion  
-- Secure authentication  
-- Transaction tracking  
-
-**Focus:** Backend logic, database integrity, transaction flows.
-
----
-
-### 🏢 Training Management System (Enterprise App)
-Built to manage internal & external training processes:
-- Trainee tracking  
-- Scheduling  
-- Role-based access  
-- Database management  
-
-**Focus:** Structured database design & workflow automation.
-
----
-
-### 🎓 Academic & System Projects
-Developed multiple:
-- Database systems  
-- Web applications  
-- Backend APIs  
-- Simulation systems  
-
-Emphasis on **clean code, scalability, and structured logic**.
-
----
-
-## 🧩 Technologies Encountered
-
-### Programming
-Java • Python • JavaScript • PHP • C++ • C#
-
-### Web & Backend
-HTML • CSS • React • Node.js • REST APIs
-
-### Databases
-MySQL • PostgreSQL • Database Design • SQL Optimization
-
-### Tools
-VS Code • IntelliJ • NetBeans • Git • GitHub
-
----
-
-## 📚 Currently Strengthening
-
-- Advanced SQL & query optimization  
-- Authentication & authorization systems (JWT, sessions)  
-- Backend scalability patterns  
-- Clean architecture principles  
-- System design fundamentals  
-
----
-
-## 🎯 Development Philosophy
-
-> Build systems that are structured.  
-> Write code that is readable.  
-> Design databases that scale.  
-> Never rush architecture.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhallecn&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhallecn&theme=dark&layout=compact&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhallecn&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
 
@@ -126,10 +87,17 @@ VS Code • IntelliJ • NetBeans • Git • GitHub
 
 <p align="center">
   <a href="https://github.com/nhallecn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub">
   </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter">
+  </a>
+  <!-- Add more social links here with appropriate logos -->
 </p>
 
 ---
 
-⭐ If you’re into backend systems, fintech architecture, or structured engineering — we’ll get along.
+⭐ Passionate about creating engaging web experiences and real-time solutions. Let's build something amazing together!
