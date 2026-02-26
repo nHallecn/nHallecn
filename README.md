@@ -1,10 +1,12 @@
-<h1 align="center">Hey there! 👋 I'm Halle</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Animated Header"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineering+Student;JavaScript+Developer;Frontend+%26+Backend+Dev;Three.js+Enthusiast;WebSocket+Integrator&center=true&size=25&duration=2000&pause=1000&color=36BCF7&font=monospace" alt="Typing SVG">
-  </a>
-</p>
+<h1 align="center">Hey there! 👋 I am Halle</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Software+Engineering+Student;JavaScript+Developer;Frontend+%26+Backend+Dev;Three.js+Enthusiast;WebSocket+Integrator" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -81,6 +83,22 @@ Developed various database systems, web applications, backend APIs, and simulati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhallecn&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/locfaker/locfaker/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/locfaker/locfaker/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/locfaker/locfaker/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nhallecn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ## 🤝 Connect With Me
@@ -99,5 +117,9 @@ Developed various database systems, web applications, backend APIs, and simulati
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="Animated Footer"/>
+</div>
 
 ⭐ Passionate about creating engaging web experiences and real-time solutions. Let's build something amazing together!
