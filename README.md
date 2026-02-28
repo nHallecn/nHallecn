@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Software+Engineering+Student;JavaScript+Developer;Frontend+%26+Backend+Dev;Three.js+Enthusiast;WebSocket+Integrator" alt="Typing SVG" />
 </div>
 
----
-
-## 🧠 About Me
-
-I am a passionate **Software Engineering student** with a strong focus on building robust and scalable applications. My expertise spans across both **frontend and backend development**, allowing me to craft comprehensive solutions from user interface to server-side logic. I have a particular interest in **Three.js** for creating immersive 3D web experiences and **WebSocket integration** for real-time, interactive applications.
-
----
 
 ## ⚙️ My Toolkit
 
@@ -48,33 +41,6 @@ I am a passionate **Software Engineering student** with a strong focus on buildi
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
----
-
-## 🚀 Notable Projects
-
-### 💳 CashAccess (Fintech Concept)
-
-A mobile-focused fintech system designed for the Cameroonian market, featuring a robust wallet system, airtime conversion, secure authentication, and transaction tracking. My focus was on backend logic, database integrity, and transaction flows.
-
-### 🏢 Training Management System (Enterprise App)
-
-An application built to manage internal and external training processes, including trainee tracking, scheduling, role-based access, and comprehensive database management. Emphasized structured database design and workflow automation.
-
-### 🎓 Academic & System Projects
-
-Developed various database systems, web applications, backend APIs, and simulation systems with an emphasis on clean code, scalability, and structured logic.
-
----
-
-## 💡 Development Philosophy
-
-> Build systems that are structured.
-> Write code that is readable.
-> Design databases that scale.
-> Never rush architecture.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -99,7 +65,6 @@ Developed various database systems, web applications, backend APIs, and simulati
   <img src="https://github-profile-trophy.vercel.app/?username=nhallecn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
----
 
 ## 🤝 Connect With Me
 
@@ -116,10 +81,7 @@ Developed various database systems, web applications, backend APIs, and simulati
   <!-- Add more social links here with appropriate logos -->
 </p>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="Animated Footer"/>
 </div>
-
-⭐ Passionate about creating engaging web experiences and real-time solutions. Let's build something amazing together!
