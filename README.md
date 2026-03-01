@@ -48,8 +48,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhallecn&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhallecn&theme=dark&layout=compact&hide_border=true" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhallecn&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
