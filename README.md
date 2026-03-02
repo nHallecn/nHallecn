@@ -12,41 +12,28 @@
   </a>
 </p>
 
+
 ## ⚙️ My Toolkit
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/JavaScript.gif" alt="JavaScript" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/TypeScript.gif" alt="TypeScript" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/Python.gif" alt="Python" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/Java.gif" alt="Java" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/React.gif" alt="React" width="50" height="50">
-  <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/HTML5.gif" alt="HTML5" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/CSS3.gif" alt="CSS3" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=react,threejs,html,css" alt="Frontend" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/NodeJS.gif" alt="Node.js" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/ExpressJS.gif" alt="Express.js" width="50" height="50">
-  <img src="https://skillicons.dev/icons?i=workers" alt="WebSockets" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,workers" alt="Backend" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/MySQL.gif" alt="MySQL" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/PostgreSQL.gif" alt="PostgreSQL" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/MongoDB.gif" alt="MongoDB" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/Git.gif" alt="Git" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/GitHub.gif" alt="GitHub" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/Docker.gif" alt="Docker" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Moving%20Logos/VSCode.gif" alt="VS Code" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools" />
 </p>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
