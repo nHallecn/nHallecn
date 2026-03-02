@@ -1,9 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Animated Header"/>
 </div>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Hey+there!+👋+I+am+Halle&center=true&size=25&duration=2000&pause=1000&color=36BCF7&font=monospace" alt="Typing SVG">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
+    <img 
+      src="https://readme-typing-svg.demolab.com?lines=Hey+there!+👋+I+am+Halle&center=true&size=25&duration=2000&pause=1000&color=36BCF7&font=monospace" 
+      alt="Typing animation showing: Hey there! I am Halle" 
+    />
   </a>
 </p>
 
