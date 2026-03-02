@@ -16,24 +16,31 @@
 ## ⚙️ My Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java" alt="Languages" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=%E2%9A%99%EF%B8%8F+My+Toolkit" alt="Animated Heading" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,threejs,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,workers" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=react,threejs,html,css&theme=dark" alt="Frontend" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,workers&theme=dark" alt="Backend" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Tools" />
+</p>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
