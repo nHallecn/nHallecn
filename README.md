@@ -3,17 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+there!+👋+I+am+Halle;JavaScript+Developer;Frontend+%26+Backend+Dev;Three.js+Enthusiast;WebSocket+Integrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+there!+👋+I+am+Halle;JavaScript+Developer" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img 
-      src="https://readme-typing-svg.demolab.com?lines=Hey+there!+👋+I+am+Halle&center=true&size=25&duration=2000&pause=1000&color=36BCF7&font=monospace" 
-      alt="Typing animation showing: Hey there! I am Halle" 
-    />
-  </a>
-</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineering+Student;JavaScript+Developer;Frontend+%26+Backend+Dev;Three.js+Enthusiast;WebSocket+Integrator&center=true&size=25&duration=2000&pause=1000&color=36BCF7&font=monospace" alt="Typing SVG">
