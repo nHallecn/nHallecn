@@ -10,6 +10,11 @@
     />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineering+Student;JavaScript+Developer;Frontend+%26+Backend+Dev;Three.js+Enthusiast;WebSocket+Integrator&center=true&size=25&duration=2000&pause=1000&color=36BCF7&font=monospace" alt="Typing SVG">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Software+Engineering+Student;JavaScript+Developer;Frontend+%26+Backend+Dev;Three.js+Enthusiast;WebSocket+Integrator" alt="Typing SVG" />
