@@ -19,16 +19,6 @@
 ---
 
 <div align="center">
-
-### 🌟 About Me
-
-🎓 I’m a Software Engineering student, specializing in **Full Stack Development**.
-🔧 Skilled in: Node.js, Express.js, React, Three.js, MongoDB, Docker, Git, VS Code, Python, Java, C/C++.
-🎨 Passionate about creating user-centric designs and seamless digital experiences, with a keen interest in 3D web development.
-🤝 Open to: Open-source collaboration, Hackathons, and Freelance projects.
-💬 Ask me about: Web Development, Backend Development, 3D Web Development (Three.js), WebSocket Integration, Problem Solving.
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/nhallecn/nhallecn/main/assets/developer-gif.gif" alt="Developer GIF" />
 </p>
