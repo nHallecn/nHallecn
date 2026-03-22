@@ -104,6 +104,4 @@
 [![](https://visitcount.itsvg.in/api?id=nhallecn&icon=0&color=B85C38)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-ok
   </div>
