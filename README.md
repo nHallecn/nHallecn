@@ -1,8 +1,9 @@
 <p align="center">
-  <img 
+  <p>Hey there!, I am Halle</p>
+  <!-- <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I+am+Halle+✨;🚀+Software+Engineering+Student;💻+Full+Stack+JavaScript+Developer" 
     alt="Typing SVG" 
-  />
+  /> -->
 </p>
  
 <p align="center">
