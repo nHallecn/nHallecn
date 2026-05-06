@@ -6,12 +6,12 @@
   /> -->
 </p>
  
-<p align="center">
+<!-- <p align="center">
   <img 
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Three.js+Enthusiast;🌐+WebSocket+Integrator;🧠+Problem+Solver" 
     alt="Typing SVG" 
   />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nhallecn&label=Profile%20views&color=B85C38&style=flat-square" alt="nhallecn" />
