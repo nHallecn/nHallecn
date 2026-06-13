@@ -1,25 +1,14 @@
-<p align="center">
+
   <h2>Hey there!, I am Halle</h2>
-  
-</p>
- 
-<!-- <p align="center">
-  <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Three.js+Enthusiast;🌐+WebSocket+Integrator;🧠+Problem+Solver" 
-    alt="Typing SVG" 
-  />
-</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nhallecn&label=Profile%20views&color=B85C38&style=flat-square" alt="nhallecn" />
 </p>
  
----
-
 <div align="center">
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/nhallecn/nhallecn/main/assets/developer-gif.gif" alt="Developer GIF" />
-</p>
+</p> -->
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/nhallecn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nji-halle-cho-nkwenti/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/chohalle)
